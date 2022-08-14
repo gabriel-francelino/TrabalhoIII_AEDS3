@@ -432,7 +432,7 @@ arc/eil101.txt
 332
 ```
 
-![alt text](Analise30s.png)
+![alt text](https://docs.google.com/spreadsheets/d/e/2PACX-1vQT5VnhyxAP7cwimWYIEHBCmI1-q3Rsd_kzEeu1jGhDltd3RiJhuEHNRCPTQo47DDowX3w-tq89TjtQ/pubchart?oid=369903479&format=image)
 
 #### 60 segundos
 ```
@@ -480,7 +480,7 @@ arc/eil101.txt
 38 65 35 43 86 
 332
 ```
-![alt text](Analise60s.png)
+![alt text](https://docs.google.com/spreadsheets/d/e/2PACX-1vQT5VnhyxAP7cwimWYIEHBCmI1-q3Rsd_kzEeu1jGhDltd3RiJhuEHNRCPTQo47DDowX3w-tq89TjtQ/pubchart?oid=138406503&format=image)
 
 
 ### Conclusão
