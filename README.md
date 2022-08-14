@@ -432,6 +432,8 @@ arc/eil101.txt
 332
 ```
 
+![alt text](Analise30s.png)
+
 #### 60 segundos
 ```
 arc/a28.txt
@@ -478,6 +480,8 @@ arc/eil101.txt
 38 65 35 43 86 
 332
 ```
+![alt text](Analise60s.png)
+
 
 ### Conclusão
 A maior dificuldade encontrada para o problema foi pensar nas Heurísticas aplicadas. A Busca Local, por exemplo, no fato de trocar um vértice por outro, e todas as verificações e trocas que isso ocasiona, ou na Heurística Construtiva inicial, ao utilizar as listas de Adjacência para encontrar as arestas correspondentes para formar o vértice.
