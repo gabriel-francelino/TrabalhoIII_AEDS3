@@ -383,7 +383,7 @@ arc/eil101.txt
 332
 ```
 
-![alt text](Analise10s.jpg)
+![alt text](Analise10s.png)
 
 #### 30 segundos
 ```
