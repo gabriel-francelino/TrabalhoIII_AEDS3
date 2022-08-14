@@ -383,7 +383,7 @@ arc/eil101.txt
 332
 ```
 
-![alt text]("https://docs.google.com/spreadsheets/d/e/2PACX-1vQT5VnhyxAP7cwimWYIEHBCmI1-q3Rsd_kzEeu1jGhDltd3RiJhuEHNRCPTQo47DDowX3w-tq89TjtQ/pubchart?oid=935345408&format=image")
+![alt text](https://docs.google.com/spreadsheets/d/e/2PACX-1vQT5VnhyxAP7cwimWYIEHBCmI1-q3Rsd_kzEeu1jGhDltd3RiJhuEHNRCPTQo47DDowX3w-tq89TjtQ/pubchart?oid=935345408&format=image)
 
 #### 30 segundos
 ```
